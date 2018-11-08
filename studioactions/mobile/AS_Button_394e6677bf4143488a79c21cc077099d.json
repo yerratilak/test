@@ -1,0 +1,24 @@
+{
+    "AS_Button_394e6677bf4143488a79c21cc077099d": {
+        "id": "AS_Button_394e6677bf4143488a79c21cc077099d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "BBTCategories",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1d442752da34e74afacb545c59d691c"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

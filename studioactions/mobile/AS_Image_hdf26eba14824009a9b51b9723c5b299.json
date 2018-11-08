@@ -1,0 +1,29 @@
+{
+    "AS_Image_hdf26eba14824009a9b51b9723c5b299": {
+        "id": "AS_Image_hdf26eba14824009a9b51b9723c5b299",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "imagesrc"
+        }, {
+            "datatype": "boolean",
+            "name": "issuccess"
+        }],
+        "contextObj": {
+            "name": "BBTProductDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "cb96ce7a607d45c8a657bc6b20820f59"
+        },
+        "sourceObj": {
+            "itemKUID": "665045fb494e496b850e300c8c34ff8b",
+            "widgetKUID": "e1050798a2e8472a8b0e4ef1295ac420",
+            "evt": "onDownloadComplete"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

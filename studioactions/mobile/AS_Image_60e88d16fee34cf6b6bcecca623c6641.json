@@ -1,0 +1,34 @@
+{
+    "AS_Image_60e88d16fee34cf6b6bcecca623c6641": {
+        "id": "AS_Image_60e88d16fee34cf6b6bcecca623c6641",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "sourceObj": {
+            "itemKUID": "665045fb494e496b850e300c8c34ff8b",
+            "widgetKUID": "e1050798a2e8472a8b0e4ef1295ac420",
+            "evt": "onTouchEnd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_a28c99b9f4704b08a1f0637eda4fe01f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "gobacknextpage",
+            "display": "gobacknextpage",
+            "inputparams": [{
+                "name": "btn"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

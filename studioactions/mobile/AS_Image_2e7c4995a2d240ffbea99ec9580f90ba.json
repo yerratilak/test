@@ -1,0 +1,47 @@
+{
+    "AS_Image_2e7c4995a2d240ffbea99ec9580f90ba": {
+        "id": "AS_Image_2e7c4995a2d240ffbea99ec9580f90ba",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "BBTProductLIST",
+            "type": "forms",
+            "platform": null,
+            "KUID": "2dff71c1185c48039922dab53ebcf21b"
+        },
+        "sourceObj": {
+            "itemKUID": "665045fb494e496b850e300c8c34ff8b",
+            "widgetKUID": "e1050798a2e8472a8b0e4ef1295ac420",
+            "evt": "onTouchStart"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchStart_614ff514b8e34c34bde9b23a0a5c1d2f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "gobacknextpage",
+            "display": "gobacknextpage",
+            "inputparams": [{
+                "name": "btn",
+                "value": "\"\""
+            }],
+            "callbackType": null,
+            "disabled": true,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET__de5b6df4ba0e4f6e834a6795f2d89635",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//BBTProductLIST.show();\nvar brdlength=breadcrum.length;\nvar catid=breadcrum[brdlength-1].backid;\n//Categories(catid);\nBBTCategories.show();\nBBTProductLIST.destroy();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_570cf0088d394736b0f35815ebd219db": {
+        "id": "AS_Button_570cf0088d394736b0f35815ebd219db",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "BBTCategories",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1d442752da34e74afacb545c59d691c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___82c5486e00a1413fb520309abf62bb51",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "cancelMethod",
+            "display": "cancelMethod",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Form_764872e0b3e649c69e6d742d5336568b": {
+        "id": "AS_Form_764872e0b3e649c69e6d742d5336568b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "BBTCategories",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1d442752da34e74afacb545c59d691c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d883779c1fec4c968213d11c0c114704",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "BBTCategories.BBTCflexmain.FlexSearchAnimation.opacity=0;\n//showloadingindicator();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

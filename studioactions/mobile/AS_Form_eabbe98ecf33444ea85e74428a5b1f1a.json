@@ -1,0 +1,24 @@
+{
+    "AS_Form_eabbe98ecf33444ea85e74428a5b1f1a": {
+        "id": "AS_Form_eabbe98ecf33444ea85e74428a5b1f1a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "BBTProductLIST",
+            "type": "forms",
+            "platform": null,
+            "KUID": "j7ff6ed59a704228bee733ba5dc357aa"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__je069cc4ef08477aa3042a693809c6d5",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "ProductListAnimation();\nBBTProductLIST.flexmaster.imgsearch.isVisible=false;\n//ProductpaginationAnimation();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

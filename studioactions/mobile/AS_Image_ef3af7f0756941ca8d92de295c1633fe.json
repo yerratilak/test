@@ -1,0 +1,38 @@
+{
+    "AS_Image_ef3af7f0756941ca8d92de295c1633fe": {
+        "id": "AS_Image_ef3af7f0756941ca8d92de295c1633fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "BBTProductLIST",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dff71c1185c48039922dab53ebcf21b"
+        },
+        "sourceObj": {
+            "itemKUID": "665045fb494e496b850e300c8c34ff8b",
+            "widgetKUID": "03465da0851343af86a5d2102056bfaf",
+            "evt": "onTouchEnd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3820a5aeec4548228d05f9fec217ea09",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchMethod",
+            "display": "searchMethod",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "AS_Image_f7a5e0f6173d44e99c477b9028458b8f": {
+        "id": "AS_Image_f7a5e0f6173d44e99c477b9028458b8f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "BBTCategories",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1d442752da34e74afacb545c59d691c"
+        },
+        "sourceObj": {
+            "itemKUID": "665045fb494e496b850e300c8c34ff8b",
+            "widgetKUID": "6c0d1ae7f85e498f97f8410814fe4c0e",
+            "evt": "onTouchEnd"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__acbbf5db49aa4a89b4076fec18eb454c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"search\");\nsearchMethod();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

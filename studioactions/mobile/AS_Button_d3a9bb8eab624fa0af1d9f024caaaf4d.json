@@ -1,0 +1,28 @@
+{
+    "AS_Button_d3a9bb8eab624fa0af1d9f024caaaf4d": {
+        "id": "AS_Button_d3a9bb8eab624fa0af1d9f024caaaf4d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "BBTCategories",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1d442752da34e74afacb545c59d691c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ba4f7d8f4668444aabfaaf827ff8ea84",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchMethod",
+            "display": "searchMethod",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

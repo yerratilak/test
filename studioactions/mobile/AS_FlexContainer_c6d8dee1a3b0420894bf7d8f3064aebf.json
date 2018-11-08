@@ -1,0 +1,35 @@
+{
+    "AS_FlexContainer_c6d8dee1a3b0420894bf7d8f3064aebf": {
+        "id": "AS_FlexContainer_c6d8dee1a3b0420894bf7d8f3064aebf",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "BBTProductDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f7659799b2d043409094deb253b004a1"
+        },
+        "sourceObj": {
+            "itemKUID": "665045fb494e496b850e300c8c34ff8b",
+            "widgetKUID": "m146cb5c7fe94337bffb2171a1eaaa58",
+            "evt": "onTouchStart"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b383ffca0b5c448dbcb47c6273ab6c42",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "BBTProductLIST.show();\nBBTProductDetails.destroy();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

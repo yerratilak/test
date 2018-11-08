@@ -1,0 +1,23 @@
+{
+    "AS_Form_f9557adb00194b68b32ad79f132ba985": {
+        "id": "AS_Form_f9557adb00194b68b32ad79f132ba985",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "BBTProductDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "fadf2e0e93974a48af8af41bc7146cd9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_postShow_ibc47369073949cc9961a8285a97b083",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "BBTProductDetails.flexmaster.imgsearch.isVisible=false;",
+            "callbackType": null
+        }]
+    }
+}

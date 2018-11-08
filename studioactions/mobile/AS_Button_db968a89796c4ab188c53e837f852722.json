@@ -1,0 +1,21 @@
+{
+    "AS_Button_db968a89796c4ab188c53e837f852722": {
+        "id": "AS_Button_db968a89796c4ab188c53e837f852722",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_g4c7205a6d2243d68bff6c8a13dd2b6e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "nextaction",
+            "display": "nextaction",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

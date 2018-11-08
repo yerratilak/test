@@ -1,0 +1,24 @@
+{
+    "AS_Form_2d879320827644939a25ed3d2c8ec703": {
+        "id": "AS_Form_2d879320827644939a25ed3d2c8ec703",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "BBTCategories",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a1d442752da34e74afacb545c59d691c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fb74d79876fe4af9919b3671f44367e1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "categoriesAnimation();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

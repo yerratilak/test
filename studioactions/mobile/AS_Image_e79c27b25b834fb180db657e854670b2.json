@@ -1,0 +1,35 @@
+{
+    "AS_Image_e79c27b25b834fb180db657e854670b2": {
+        "id": "AS_Image_e79c27b25b834fb180db657e854670b2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "BBTProductLIST",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j7ff6ed59a704228bee733ba5dc357aa"
+        },
+        "sourceObj": {
+            "itemKUID": "665045fb494e496b850e300c8c34ff8b",
+            "widgetKUID": "e1050798a2e8472a8b0e4ef1295ac420",
+            "evt": "onTouchStart"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__d974645c395547c7bc4cb5529012944c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//BBTProductLIST.show();\nvar searchbox= BBTCategories.searchTbox.text;\n  if(searchbox!==\"\")\n    {\n      BBTCategories.searchTbox.text=\"\";\n      BBTCategories.searchBtn.text=\"Cancel\";\n      //onCancleClikc();\n       BBTCategories.FlexSearchAnimation.top='-100%';\n    }\nvar brdlength=breadcrum.length;\nvar catid=breadcrum[brdlength-1].backid;\n//Categories(catid);\nBBTCategories.show();\nBBTProductLIST.destroy();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}
