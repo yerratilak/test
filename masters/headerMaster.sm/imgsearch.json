@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "_left_": "76%",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scec60deaa3e457c96e9c7629990ab82",
+    "_src_": "ic_menu_search.png",
+    "_top_": "0px",
+    "_width_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m8efc59df808419c921363612e74e905",
+        "mb4d381365a94c9f9711b9ebd50a1fac"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "headerMaster",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgsearch",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "6c0d1ae7f85e498f97f8410814fe4c0e",
+    "name": "kony.ui.Image2",
+    "parent": "flexmaster",
+    "pf": "headerMaster",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}
