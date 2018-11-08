@@ -1,0 +1,180 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblonsale": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "!!ON SALE!!"
+            },
+            "prdimg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "prdprice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "prdrating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "prdtitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblonsale": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "!!ON SALE!!"
+            },
+            "prdimg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "prdprice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "prdrating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "prdtitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "lblonsale": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "!!ON SALE!!"
+            },
+            "prdimg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "prdprice": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "prdrating": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "prdtitle": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "88.12%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "hiddencolumns": {
+        "catid": "text"
+    },
+    "id": "SegProdList",
+    "ide_onRowClick": "AS_Segment_hd41bd8da2974cf6acd8690b15f480f5",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "e57af2ce05d54bbe80955d2b792194c7",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "BBTPflexmain",
+    "pf": "BBTProductLIST",
+    "retainselection": false,
+    "rowTemplateId": "799ab58839cf4ee9bb9d37fa6f009c88",
+    "rowcounter": 2,
+    "rowfocusskin": "s258009bc49146eb8b86f430f14506ca",
+    "rowskin": "s7477470ad024946b6120001073208b6",
+    "rowtemplate": "FlexProductSegTemplateMain",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "seedb2d173c34594a89082ef3ad2d6a2",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FleProductListRowTemplateOnsale": "FleProductListRowTemplateOnsale",
+        "FlexProdListProdDetailsDet": "FlexProdListProdDetailsDet",
+        "FlexProdListProdDetailsImg": "FlexProdListProdDetailsImg",
+        "FlexProdListProdDetailsMain": "FlexProdListProdDetailsMain",
+        "FlexProductSegTemplateMain": "FlexProductSegTemplateMain",
+        "lblonsale": "lblonsale",
+        "prdimg": "prdimg",
+        "prdprice": "prdprice",
+        "prdrating": "prdrating",
+        "prdtitle": "prdtitle"
+    },
+    "zindex": 1
+}

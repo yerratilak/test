@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scec60deaa3e457c96e9c7629990ab82",
+    "_srcKuid_": "e1050798a2e8472a8b0e4ef1295ac420",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "90%"
+        },
+        "id": "imgback",
+        "imageScaleMode": 1,
+        "left": {
+            "type": "string",
+            "value": "16dp"
+        },
+        "src": "ic_menu_back.png",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "35dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgback",
+    "ide_onTouchStart": "AS_Image_ca08c6af1d0b408593319cb839c15fd0",
+    "instanceOf": "e1050798a2e8472a8b0e4ef1295ac420",
+    "isvisible": true,
+    "kuid": "m08ed577e56d4d0dbb6bf02e8028d335",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "flexmaster",
+    "pf": "BBTProductDetails",
+    "topLevelInstanceKUID": "m779004e3dcd448a84fdcb5497da0a5b",
+    "wType": "Image"
+}

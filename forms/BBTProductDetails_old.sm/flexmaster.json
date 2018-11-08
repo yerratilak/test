@@ -1,0 +1,60 @@
+{
+    "__parentReadjusting__": false,
+    "_height_": "14.10%",
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s172be82b1ae43599bf390e316ff0910",
+    "_srcKuid_": "m146cb5c7fe94337bffb2171a1eaaa58",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "children": [
+        "imglogo",
+        "imgback",
+        "imgsearch",
+        "Label0a01e454d5d734a",
+        "FlexContainer0b4ee997edb214b"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "14.10%"
+        },
+        "id": "flexmaster",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0%"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "id": "flexmaster",
+    "instanceOf": "m146cb5c7fe94337bffb2171a1eaaa58",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "m71107cf5b584448907f5f3925f5b022",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "BBTProductDetails",
+    "pf": "BBTProductDetails",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

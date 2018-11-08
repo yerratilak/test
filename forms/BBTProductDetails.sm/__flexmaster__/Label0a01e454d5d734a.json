@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4a73edca5654fc68786c3b4033d85e2",
+    "_srcKuid_": "b07524e580d74c6db9b4e6eacbca778d",
+    "canUpdateUI": true,
+    "channel": "mobile",
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "number",
+            "value": "1"
+        },
+        "id": "Label0a01e454d5d734a",
+        "left": {
+            "type": "string",
+            "value": "-0.09%"
+        },
+        "text": "",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "100.02%"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "Label0a01e454d5d734a",
+    "instanceOf": "b07524e580d74c6db9b4e6eacbca778d",
+    "isvisible": true,
+    "kuid": "m9acbd4630f2437cbb1efd29f5d8becb",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "flexmaster",
+    "pf": "BBTProductDetails",
+    "topLevelInstanceKUID": "m05e36f9dc0a4a2eacc005362d8e6aac",
+    "wType": "Label"
+}

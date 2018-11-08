@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2px"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s687862153b64a978916d0723613cf8c",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "2px"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "avgrating",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "f2e8e6c05b14498e8d1b1612897acbff",
+    "name": "kony.ui.Label",
+    "parent": "CopyFlexContainer0c4abcdf925934b",
+    "pf": "BBTProductDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

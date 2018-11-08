@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "68%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s06f323929954c62ae1d80295f907b1a",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6ed916e2fed4d7eb4ac088687b6565b",
+    "id": "searchBtn",
+    "ide_onClick": "AS_Button_570cf0088d394736b0f35815ebd219db",
+    "info": null,
+    "isvisible": true,
+    "kuid": "efce6b149da8492382ca6fa13b5bfd03",
+    "name": "kony.ui.Button",
+    "parent": "FlexSearchAnimation",
+    "pf": "BBTCategories",
+    "wType": "Button",
+    "zindex": 5
+}

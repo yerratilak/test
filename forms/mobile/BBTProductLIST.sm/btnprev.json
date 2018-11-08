@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "number",
+        "value": "33"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s50614f43c8846b7b1c2c97d02fb39e5",
+    "_text_": "<<Prev",
+    "_top_": {
+        "type": "string",
+        "value": "9.73%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s6ed916e2fed4d7eb4ac088687b6565b",
+    "id": "btnprev",
+    "ide_onClick": "AS_Button_b81628a6fda2459f97e13015d3d89f77",
+    "info": null,
+    "isvisible": true,
+    "kuid": "eed914def7ad4269b1424396b622aaa2",
+    "name": "kony.ui.Button",
+    "parent": "PrdPage",
+    "pf": "BBTProductLIST",
+    "wType": "Button",
+    "zindex": 1
+}
